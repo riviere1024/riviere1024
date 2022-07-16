@@ -1,7 +1,7 @@
 ### Hi there 👋
 🎉Welcome to visit my profile！
 
-🎵My PlayList:<https://music.163.com/#/my/m/music/playlist?id=479598653>🎵
+🎵My PlayList:<https://music.163.com/#/my/m/music/playlist?id=479598653>
 
 
 
