@@ -6,6 +6,7 @@
 Contact me
 - [Bilibili](https://space.bilibili.com/9334274)
 - [Steam](https://steamcommunity.com/id/Akiba-Ao/)
+- Email:2665495833@qq.com
 
 💬See the left sidebar for more contact information(e.g. Twitter)
 
