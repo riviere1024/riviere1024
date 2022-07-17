@@ -7,7 +7,7 @@ Contact me
 - [Bilibili](https://space.bilibili.com/9334274)
 - [Steam](https://steamcommunity.com/id/Akiba-Ao/)
 
-💬See the left sidebar for more contact information
+💬See the left sidebar for more contact information(e.g. Twitter)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibaAo)](https://github.com/anuraghazra/github-readme-stats)
 
