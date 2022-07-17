@@ -3,7 +3,7 @@
 
 🎵My PlayList:<https://music.163.com/#/my/m/music/playlist?id=479598653>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibaAo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
