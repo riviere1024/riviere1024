@@ -1,6 +1,7 @@
 ### 🎉Welcome to visit my profile！
 
-🎵My PlayList:<https://music.163.com/#/my/m/music/playlist?id=479598653>
+🎵My PlayList:
+- [NetEaseMusic](https://music.163.com/#/my/m/music/playlist?id=479598653)
 
 ### Contact me
 - [Bilibili](https://space.bilibili.com/9334274)
