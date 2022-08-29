@@ -9,8 +9,6 @@
 - Email:2665495833@qq.com
 - Discord:AkibaAo#8932
 
-💬See the left sidebar for more contact information(e.g. Twitter)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibaAo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
