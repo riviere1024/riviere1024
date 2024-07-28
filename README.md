@@ -6,7 +6,7 @@
 ### Contact me
 - [Bilibili](https://space.bilibili.com/9334274)
 - [Steam](https://steamcommunity.com/id/AkibaAo/)
-- Email:2665495833@qq.com / i@mahiro.moe
+- Email:i@riviere.moe
 - Discord:AkibaAo#8932(Not commonly used)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riviere1024&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
