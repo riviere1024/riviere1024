@@ -6,7 +6,7 @@
 ### Contact me
 - [Bilibili](https://space.bilibili.com/9334274)
 - [Steam](https://steamcommunity.com/id/riviere1024/)
-- Email: i@riviere.moe
+- Email: riviere1024@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riviere1024&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
